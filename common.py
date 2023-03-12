@@ -1,1 +1,1 @@
-print("This is a moon")
+print("This is a star")
